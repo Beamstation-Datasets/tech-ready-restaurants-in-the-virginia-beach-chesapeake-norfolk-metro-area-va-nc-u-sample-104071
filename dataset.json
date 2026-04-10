@@ -1,0 +1,22 @@
+{
+  "base_price": 3495,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "The \"Low Hanging Fruit.\" They have the budget but need the tech.\n\nRestaurants well-established (Beam Score > 70) and performing (sentiments last 30 days > 10 that lack online reservation AND online ordering\n\nReady for technology adoption and modernization.",
+  "config_name": "Tech-Ready Restaurants in the Virginia Beach-Chesapeake-Norfolk Metro Area, VA-NC, US",
+  "export_job_id": "a779aae8-5c8b-475c-90bc-ad7e94090806",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 104071,
+  "location_name": "Virginia Beach-Chesapeake-Norfolk, VA-NC",
+  "location_type": "metro",
+  "repo_name": "tech-ready-restaurants-in-the-virginia-beach-chesapeake-norfolk-metro-area-va-nc-u-sample-104071",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/104071/beamstation_104071_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
+  "sample_pct": 5.56,
+  "sample_records": 1,
+  "sample_sha256": "2f23492d99aaca4e4f810ed3cf4815b8872c97e4205a40951b5f4419f4999df1",
+  "sample_size_bytes": 20280,
+  "total_records": 18,
+  "updated_at": "2026-04-08T03:08:14.400687+00:00"
+}
