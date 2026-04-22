@@ -9,9 +9,9 @@
 | Dataset ID | `104071` |
 | Location | Virginia Beach-Chesapeake-Norfolk, VA-NC |
 | Category | Restaurants |
-| Full dataset size | 14 records |
-| Free sample size | 1 records (7.14%) |
-| Last export | 2026-04-15T08:14:50.199824+00:00 |
+| Full dataset size | 6 records |
+| Free sample size | 1 records (16.67%) |
+| Last export | 2026-04-22T15:33:32.783200+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/tech-ready-restaurants-in-the-virginia-beach-chesapeake-norfolk-metro-area-va-nc-u-sample-104071/releases/download/sample-latest/beamstation_104071_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv) |
 
 ## What is in this sample
