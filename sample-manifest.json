@@ -1,12 +1,12 @@
 {
-  "export_job_id": "ff91e94c-7100-49a6-807f-273ed718bb3c",
+  "export_job_id": "21e18899-fcec-4053-9101-e476cef752dd",
   "id_short": 104071,
-  "published_at": "2026-04-22T19:12:56Z",
+  "published_at": "2026-04-29T19:54:18Z",
   "repo_name": "tech-ready-restaurants-in-the-virginia-beach-chesapeake-norfolk-metro-area-va-nc-u-sample-104071",
   "sample_asset_name": "beamstation_104071_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/104071/beamstation_104071_restaurants-us-virginiabeachchesapeakenorfolkvanc_SAMPLE_DIST.csv",
-  "sample_records": 1,
-  "sample_sha256": "a29f610e570c2ad97176b67457913af19d15e6c2637c569e820a228c4e38f4db",
-  "sample_size_bytes": 20303,
-  "total_records": 6
+  "sample_records": 7,
+  "sample_sha256": "95e0db6bccaa6c15f1bbdf2469b70c0141f8424ea229d7f5302242e9e500c1ff",
+  "sample_size_bytes": 44103,
+  "total_records": 76
 }
